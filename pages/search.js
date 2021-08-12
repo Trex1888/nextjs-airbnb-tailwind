@@ -7,8 +7,8 @@ function Search() {
       <Header />
 
       <main className="flex">
-        <section>
-          <p className="text-xs mt-5">300+ Stays for 5 number of guests</p>
+        <section className="flex-grow pt-14 px-6">
+          <p className="text-xs">300+ Stays for 5 number of guests</p>
 
           <h1 className="text-3xl font-semibold mt-2 mb-6">Stay in Phoenix</h1>
 
